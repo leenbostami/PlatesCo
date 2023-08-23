@@ -3,9 +3,7 @@
 Plates CO
 
 ## Demo link:
-
-Access my site at [google.com](https://google.com)
-github clone link:
+github clone link: https://github.com/leenbostami/PlatesCo.git
 
 ## Table of Content:
 
