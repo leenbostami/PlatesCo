@@ -17,6 +17,7 @@
   text-align: center;
   background-color: var(--white);
   color: var(--white);
+  display: grid;
 }
 .welcomeMSG{
   margin-bottom: 48px;
@@ -183,10 +184,11 @@ li:hover{
   display: flex;
   border: 1px solid var(--light-grey);
   border-radius: 5px;
-  margin: 84px;
+  margin: 3%;
   margin-top: 55px;
   margin-bottom: 20px;
   justify-content: space-between;
+  
 }
 
 .product-img{
@@ -307,4 +309,30 @@ li:hover{
   margin-right: 2px;
   margin-left: 10px;
   cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .header-first-img,.header-second-img{
+    display: none;
+  }
+
+  .header-items{
+    margin-left:0px;
+    gap: 5px;
+  }
+  .logo{
+    margin-left:0px
+  }
+
+  .language {
+    right: 0px;
+  }
+
+  .notification{
+    right: -26px;
+  }
+
+  .cart{
+    right: 0px;
+  }
 }
