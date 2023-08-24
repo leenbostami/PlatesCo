@@ -3,9 +3,7 @@
 Plates CO
 
 ## Demo link:
-
-Access my site at [google.com](https://google.com)
-github clone link:
+github clone link: https://github.com/leenbostami/PlatesCo.git
 
 ## Table of Content:
 
@@ -17,7 +15,7 @@ github clone link:
 
 ## About The App
 
-Plates CO is an web app for online food ordering company, that have an offering system and discounts
+Plates CO is a web app for online food ordering company, that have an offering system and discounts
 on the delivery cost based on the purchases amount.
 
 The main functions that have been written in this project:
